@@ -1,0 +1,61 @@
+{
+   "ip":"185.129.61.6",
+   "hostname":"185.129.61.6",
+   "type":"ipv4",
+   "continent_code":"EU",
+   "continent_name":"Europe",
+   "country_code":"DK",
+   "country_name":"Denmark",
+   "region_code":"84",
+   "region_name":"Capital Region",
+   "city":"Copenhagen",
+   "zip":"1050",
+   "latitude":55.680511474609375,
+   "longitude":12.58782958984375,
+   "location":{
+      "geoname_id":2618425,
+      "capital":"Copenhagen",
+      "languages":[
+         {
+            "code":"da",
+            "name":"Danish",
+            "native":"Dansk"
+         }
+      ],
+      "country_flag":"https://assets.ipstack.com/flags/dk.svg",
+      "country_flag_emoji":"\ud83c\udde9\ud83c\uddf0",
+      "country_flag_emoji_unicode":"U+1F1E9 U+1F1F0",
+      "calling_code":"45",
+      "is_eu":true
+   },
+   "time_zone":{
+      "id":"Europe/Copenhagen",
+      "current_time":"2024-01-16T19:50:41+01:00",
+      "gmt_offset":3600,
+      "code":"CET",
+      "is_daylight_saving":false
+   },
+   "currency":{
+      "code":"DKK",
+      "name":"Danish Krone",
+      "plural":"Danish kroner",
+      "symbol":"Dkr",
+      "symbol_native":"kr"
+   },
+   "connection":{
+      "asn":210731,
+      "isp":"Forening for Dotsrc"
+   },
+   "security":{
+      "is_proxy":false,
+      "proxy_type":null,
+      "is_crawler":false,
+      "crawler_name":null,
+      "crawler_type":null,
+      "is_tor":true,
+      "threat_level":"high",
+      "threat_types":[
+         "tor"
+      ]
+   }
+}
